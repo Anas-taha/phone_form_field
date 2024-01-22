@@ -14,6 +14,9 @@ dependencies:
     sdk: flutter
 
   circle_flags:
+    git:
+      url: https://github.com/Anas-taha/flutter_circle_flags.git
+      ref: 6bda9a5
   phone_numbers_parser: ^8.1.0
   intl: ">=0.17.0 <=1.0.0"
   diacritic: ^0.1.3
